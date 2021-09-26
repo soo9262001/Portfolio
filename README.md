@@ -5,7 +5,6 @@
 
 * Eamil : soo9262001@naver.com
 * git : https://github.com/soo9262001
-* Resume : 
 
 # Education
 건양대학교 융합IT학과 졸업예정 (2016.03 ~ 2022.02)
