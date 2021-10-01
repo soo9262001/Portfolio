@@ -80,5 +80,8 @@ NewsAPI를 활용하여 오늘 날짜 및 실시간 뉴스 표시 앱.
 
 [자세히 보기](https://github.com/soo9262001/NewsApp)
 
+<p float="left">
 <img src="https://user-images.githubusercontent.com/73583602/134795117-7c455824-fa40-43f4-b259-041ac86e2194.png" width=220 height= 400 />
+<img src="https://user-images.githubusercontent.com/73583602/135566916-f6e69141-e263-496b-8d54-c509d2964b08.png" width=220 height= 400 />
+</p>
 
