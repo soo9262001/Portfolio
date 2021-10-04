@@ -20,7 +20,7 @@
 
 -영화 선택시 해당 영화의 자세한 정보 표시
 
--MVVM 구조로 구현, 이후 다른 카테고리 및 디자인 업데이트. 
+-MVVM 구조로 구현
 
 
 사용 기술 : Swift, Moya, Kingfisher, ProgressHUD, FloatRatingView
