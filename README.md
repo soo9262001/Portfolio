@@ -16,9 +16,11 @@
 ## MovieApp
 
 
-TMDB API를 사용하여 실시간 영화의 순위 및 관련 정보 표시. 
+-TMDB API를 사용하여 실시간 영화의 순위 및 관련 정보 표시. 
 
-MVVM 구조로 구현, 이후 다른 카테고리 및 디자인 업데이트. 
+-영화 선택시 해당 영화의 자세한 정보 표시
+
+-MVVM 구조로 구현, 이후 다른 카테고리 및 디자인 업데이트. 
 
 
 사용 기술 : Swift, Moya, Kingfisher, ProgressHUD, FloatRatingView
@@ -39,7 +41,9 @@ MVVM 구조로 구현, 이후 다른 카테고리 및 디자인 업데이트.
 ## OOmakers
 카카오 메이커스 앱을 기준으로 개발. 
 
-서버 및 MongoDB를 이용하여 로그인 및 회원가입 기능, 상품 정보, 리뷰 기능 등 MVC 구조로 구현. 
+서버 및 MongoDB를 이용하여 로그인 및 회원가입 구현  
+상품메뉴 및 프로필 구현  
+
 
 사용기술 : Swift, Moya, SwiftyJSON, Tabman, Kingfisher, ProgressHUD, FloatRatingView. 
 
@@ -59,6 +63,7 @@ MVVM 구조로 구현, 이후 다른 카테고리 및 디자인 업데이트.
 Youtube Ios Developer 강의들을 보고 클론코딩. 
 
 Firebase 를 사용하여 회원가입 및 로그인, Instagram의 전체적인 툴 구현. 
+사용자의 프로필 설정 구현 
 
 사용기술 : Swift, Appirater, SDWebImage, Firebase(Core,Auth,Database,Anaytics,Crashlytics,Storage)
 
