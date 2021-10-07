@@ -11,6 +11,9 @@
 
 건양대학교 융합IT학과 졸업예정 (2016.03 ~ 2022.02)
 
+# Library
+Alamofire , Moya, Kingfisher, ProgressHud, FloatRatingView, Tabman, SwiftyJson 등 
+
 # Project
 
 ## MovieApp
