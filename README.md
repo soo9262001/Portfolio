@@ -33,8 +33,8 @@ Alamofire , Moya, Kingfisher, ProgressHud, FloatRatingView, Tabman, SwiftyJson ë
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/73583602/134794670-7e585fef-8a81-43a8-bcf1-a246a985b850.png" width=220 height= 400 />
-  <img src="https://user-images.githubusercontent.com/73583602/134794592-5ec73649-446b-4f62-b4f3-161141d749c0.png" width=220 height= 400 /> 
+  <img src="https://user-images.githubusercontent.com/73583602/137119635-18f9847c-877b-4af0-8a72-4139590feff6.gif" width=220 height= 400 />
+  <img src="https://user-images.githubusercontent.com/73583602/137119727-68e4a775-50f8-4118-a92c-8e4dba703916.gif" width=220 height= 400 /> 
 </p>
 
 
