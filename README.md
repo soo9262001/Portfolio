@@ -46,7 +46,7 @@ NewsAPI를 활용하여 실시간 각종 뉴스 및 카테고리 연결 뉴스
 [자세히 보기](https://github.com/soo9262001/News-Feed-App)
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/73583602/137864789-631a163f-7445-4e5c-99fc-78bd27b6ed7f.gif" width=220 height= 400 />
+<img src="https://user-images.githubusercontent.com/73583602/137865288-ebb4dce1-02a5-439e-85ac-ca99bbb8961b.gif" width=220 height= 400 />
 <img src="https://user-images.githubusercontent.com/73583602/137864859-080e895a-0c07-4a97-a328-7bf67c49bf40.gif" width=220 height= 400 />
   <img src="https://user-images.githubusercontent.com/73583602/137864941-53afa31f-f0cf-422a-a943-3d05a6c76d69.gif" width=220 height= 400 />
 </p>
