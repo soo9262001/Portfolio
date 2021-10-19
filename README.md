@@ -38,6 +38,19 @@ Alamofire , Moya, Kingfisher, ProgressHud, FloatRatingView, Tabman, SwiftyJson �
 </p>
 
 
+## NewsAPP
+NewsAPI를 활용하여 실시간 각종 뉴스 및 카테고리 연결 뉴스
+
+사용기술 : Swift, Moya, Tabman,Kingfisher, ProgressHUD
+
+[자세히 보기](https://github.com/soo9262001/News-Feed-App)
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/73583602/137863869-186c9da1-fa94-4c29-8f51-1668a2b75e13.gif" width=220 height= 400 />
+<img src="https://user-images.githubusercontent.com/73583602/137863971-5221aee5-dabc-4a06-bf1b-c795e05c9700.gif" width=220 height= 400 />
+  <img src="https://user-images.githubusercontent.com/73583602/137864039-acc4dd92-7aeb-4787-8cf9-f88070fcac36.gif" width=220 height= 400 />
+</p>
+
 
 
 
@@ -81,15 +94,5 @@ Firebase 를 사용하여 회원가입 및 로그인, Instagram의 전체적인 
 
 
 
-## NewsAPP
-NewsAPI를 활용하여 오늘 날짜 및 실시간 뉴스 표시 앱. 
 
-사용기술 : Swift, Moya, Tabman
-
-[자세히 보기](https://github.com/soo9262001/NewsApp)
-
-<p float="left">
-<img src="https://user-images.githubusercontent.com/73583602/134795117-7c455824-fa40-43f4-b259-041ac86e2194.png" width=220 height= 400 />
-<img src="https://user-images.githubusercontent.com/73583602/135566916-f6e69141-e263-496b-8d54-c509d2964b08.png" width=220 height= 400 />
-</p>
 
