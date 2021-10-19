@@ -38,7 +38,7 @@ Alamofire , Moya, Kingfisher, ProgressHud, FloatRatingView, Tabman, SwiftyJson �
 </p>
 
 
-## NewsAPP
+## News Feed APP
 NewsAPI를 활용하여 실시간 각종 뉴스 및 카테고리 연결 뉴스
 
 사용기술 : Swift, Moya, Tabman,Kingfisher, ProgressHUD
