@@ -5,6 +5,7 @@
 
 * Email : soo9262001@naver.com
 * Git : https://github.com/soo9262001
+* Medium: https://medium.com/@Soo_m
 
 # Education
 천안중앙고등학교 졸업(2013.03 ~ 2016.02). 
